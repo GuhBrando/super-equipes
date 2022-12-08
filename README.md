@@ -1,3 +1,5 @@
+![MARVEL](https://upload.wikimedia.org/wikipedia/commons/b/b9/Marvel_Logo.svg)
+
 Bem vindo ao menu principal, escolha qual super-equipe gostaria de visualizar
 
 - [Vingadores](https://github.com/GuhBrando/super-equipes/blob/main/vingadores.md)
